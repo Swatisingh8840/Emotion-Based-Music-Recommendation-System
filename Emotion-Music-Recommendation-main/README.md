@@ -2,7 +2,7 @@
 Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
 
 # Demo:
-![Demo](https://user-images.githubusercontent.com/51918054/123414505-9800c300-d5d1-11eb-9131-5914c255ce47.gif)
+![Demo](https://github.com/user-attachments/assets/53a7ebb3-17cc-48cf-8bb1-52183570b175)
 
 (Forgive the image quality and my expressions 😆)
 
